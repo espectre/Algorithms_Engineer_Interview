@@ -1,6 +1,12 @@
-## 计算机视觉算法工程师面试中手撕代码的算法题总结
-（微软、商汤、旷视、头条、阿里等）
+# 计算机视觉算法工程师面试中手撕代码的算法题总结
 
+### 要求：微软、商汤、旷视、头条、阿里、腾讯、百度算法岗，其他公司和岗位的不在此之列。
+
+### 开始先大概整理，后面会分类
+
+### 数据结构类
+
+### 算法类
 1.x的n次方(头条)
 
 [leetcode 50](https://leetcode.com/problems/powx-n/)
@@ -33,15 +39,19 @@ cdcd
 ```
 6.二叉树的深度
 
+[剑指offer 38]（https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&tqId=11191&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking）
+
 7.排序
 
 快排，归并，堆排序
 
-8.二叉树路径和为给定值
+8.二叉树路径和为某一值的路径
 
-9.一个数组，其他数出现两次，另一个出现一次，找出
+[剑指offer 24]（https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking）
 
-改进：另外两个数出现一次
+9.数组中只出现一次的数字
+
+[剑指offer 40](https://www.nowcoder.com/practice/e02fdb54d7524710a7d664d082bb7811?tpId=13&tqId=11193&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
 10.链表中倒数第k个结点
 
