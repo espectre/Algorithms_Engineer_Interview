@@ -118,6 +118,8 @@ cdcd
 
 先序遍历，一个vector存路径递归即可
 
+[参考解答](https://blog.csdn.net/shixiaoguo90/article/details/23759887)
+
 4.最长公共子序列（阿里）
 
 ## 数据结构类
