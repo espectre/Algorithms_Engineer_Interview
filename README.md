@@ -1,12 +1,12 @@
 # 计算机视觉算法工程师面试中手撕代码的算法题总结
 
-## 希望大家把自己的面试题目加进来，一起维护！
+## 希望大家把自己的面试题目加进来，一起维护！本人本科非科班，可能一些划分和解答不合理，欢迎指出！
 
-### （目前是微软、商汤、旷视、头条、阿里、腾讯、百度、海康威视、第四范式算法岗，其他公司也可以添加。）
+## （目前是微软、商汤、旷视、头条、阿里、腾讯、百度、海康威视、第四范式算法岗，其他公司也可以添加。）
 
-### 1.按照公司划分
+## 1.按照公司划分
 
-#### 微软
+### 微软
 1.n个文件（海量文件），查找和排序，二分查找时间复杂度（**微软**）
 
 归并排序，二分查找
@@ -19,7 +19,7 @@
 
 3.最长连续公共子串（**微软**）
 
-#### 商汤
+### 商汤
 1.二叉树路径和为某一值的路径（**商汤**）
 
 [剑指offer 24](https://www.nowcoder.com/practice/b736e784e3e34731af99065031301bca?tpId=13&tqId=11177&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -32,12 +32,12 @@
 
 [剑指offer 14](https://www.nowcoder.com/practice/529d3ae5a407492994ad2a246518148a?tpId=13&tqId=11167&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
-#### 旷视
+### 旷视
 1.数组中的逆序对（**旷视**）
 
 [剑指offer 35](https://www.nowcoder.com/practice/96bd6684e04a44eb80e6a68efc0ec6c5?tpId=13&tqId=11188&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
-#### 今日头条
+### 今日头条
 
 1.x的n次方
 
@@ -60,13 +60,13 @@
 [剑指offer 15](https://www.nowcoder.com/practice/75e878df47f24fdc9dc3e400ec6058ca?tpId=13&tqId=11168&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
 
-#### 阿里巴巴
+### 阿里巴巴
 
-#### 腾讯
+### 腾讯
 
-#### 百度
+### 百度
 
-#### 海康威视
+### 海康威视
 1.二叉树的深度（**海康**）
 
 [剑指offer 38](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&tqId=11191&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
@@ -87,7 +87,7 @@
 
 [leetcode 3/剑指offer第二版48](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-#### 第四范式
+### 第四范式
 
 1.删除字符(**第四范式**)
 ```
@@ -108,7 +108,7 @@ cdcd
 5 6  7  8  9
 ```
 
-#### 同学or面经题目（other）
+### 同学or面经题目（other）
 
 1.判断链表对称/链表回文
 
@@ -120,42 +120,41 @@ cdcd
 
 4.最长公共子序列（阿里）
 
-### 数据结构类
-#### 1.链表
+## 数据结构类
+### 1.链表
 商汤-3
 头条-2，5
-#### 2.数组
-#### 3.字符串
-#### 4.栈与队列
-#### 5.二叉树
+### 2.数组
+### 3.字符串
+### 4.栈与队列
+### 5.二叉树
 商汤-1
 海康-1
 other-3
-#### 6.二叉搜索树
-#### 7.哈希表
+### 6.二叉搜索树
+### 7.哈希表
 第四范式-1
-#### 7.哈希表-1
-### 算法类
-#### 1.递归
+### 7.哈希表-1
+## 算法类
+### 1.递归
 海康-3
-#### 2.排序
+### 2.排序
 微软-1
 旷视-1
 海康-2
-#### 3.搜索
-#### 4.回溯
-#### 5.位运算
+### 3.搜索
+### 4.回溯
+### 5.位运算
 商汤-2
-#### 6.动态规划
+### 6.动态规划
 微软-3
 海康-4
 海康-5
-#### 7.双指针
-#### 8.贪心
+### 7.双指针
+### 8.贪心
 头条-4
-#### 9.限制运算
-#### 10.找规律
+### 9.限制运算
+### 10.找规律
 头条-3
-第四范式-2
-### 
+第四范式-2 
 
