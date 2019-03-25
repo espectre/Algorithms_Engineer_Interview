@@ -13,3 +13,7 @@
 #### 3.期望：抛硬币直到连续若干次正面的概率
 
 这题比较麻烦，现场基本推不出来。。
+
+[抛硬币直到连续若干次正面的概率](https://www.cnblogs.com/avril/archive/2013/06/28/3161669.html)
+
+[用数学解赌博问题不稀奇，用赌博解数学问题才牛B](http://www.matrix67.com/blog/archives/3638)
