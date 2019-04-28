@@ -341,3 +341,7 @@ bagging和随机森林的区别
 ##### 9.softmax
 
 ##### 10.F1score是 $\alpha$ =1，那么$\alpha$什么时候取其他值
+
+### 13.华为终端
+
+[华为终端算法实习](https://zhuanlan.zhihu.com/p/63954419)
