@@ -17,6 +17,16 @@
 
 一个数记录最大差，一个记录最小元素，遍历一次即可
 
+[leetcode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+[leetcode 122]
+
+[leetcode 123]
+
+[leetcode 188]
+
+[leetcode 309]
+
 3.最长连续公共子串（**微软**）
 
 ### 商汤
